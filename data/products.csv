@@ -1,0 +1,41 @@
+id,product,category,price_inr,stock,description
+1,Notebook model 1,Stationery,135,7,Fictional stationery product for CSV loading practice.
+2,Pen set model 1,Stationery,170,14,Fictional stationery product for CSV loading practice.
+3,Desk lamp model 1,Home,205,21,Fictional home product for CSV loading practice.
+4,Water bottle model 1,Home,240,28,Fictional home product for CSV loading practice.
+5,USB cable model 1,Electronics,275,35,Fictional electronics product for CSV loading practice.
+6,Keyboard model 1,Electronics,310,42,Fictional electronics product for CSV loading practice.
+7,Yoga mat model 1,Fitness,345,49,Fictional fitness product for CSV loading practice.
+8,Resistance band model 1,Fitness,380,56,Fictional fitness product for CSV loading practice.
+9,Notebook model 2,Stationery,415,3,Fictional stationery product for CSV loading practice.
+10,Pen set model 2,Stationery,450,10,Fictional stationery product for CSV loading practice.
+11,Desk lamp model 2,Home,485,17,Fictional home product for CSV loading practice.
+12,Water bottle model 2,Home,520,24,Fictional home product for CSV loading practice.
+13,USB cable model 2,Electronics,555,31,Fictional electronics product for CSV loading practice.
+14,Keyboard model 2,Electronics,590,38,Fictional electronics product for CSV loading practice.
+15,Yoga mat model 2,Fitness,625,45,Fictional fitness product for CSV loading practice.
+16,Resistance band model 2,Fitness,660,52,Fictional fitness product for CSV loading practice.
+17,Notebook model 3,Stationery,695,59,Fictional stationery product for CSV loading practice.
+18,Pen set model 3,Stationery,730,6,Fictional stationery product for CSV loading practice.
+19,Desk lamp model 3,Home,765,13,Fictional home product for CSV loading practice.
+20,Water bottle model 3,Home,800,20,Fictional home product for CSV loading practice.
+21,USB cable model 3,Electronics,835,27,Fictional electronics product for CSV loading practice.
+22,Keyboard model 3,Electronics,870,34,Fictional electronics product for CSV loading practice.
+23,Yoga mat model 3,Fitness,905,41,Fictional fitness product for CSV loading practice.
+24,Resistance band model 3,Fitness,940,48,Fictional fitness product for CSV loading practice.
+25,Notebook model 4,Stationery,975,55,Fictional stationery product for CSV loading practice.
+26,Pen set model 4,Stationery,1010,2,Fictional stationery product for CSV loading practice.
+27,Desk lamp model 4,Home,1045,9,Fictional home product for CSV loading practice.
+28,Water bottle model 4,Home,1080,16,Fictional home product for CSV loading practice.
+29,USB cable model 4,Electronics,1115,23,Fictional electronics product for CSV loading practice.
+30,Keyboard model 4,Electronics,1150,30,Fictional electronics product for CSV loading practice.
+31,Yoga mat model 4,Fitness,1185,37,Fictional fitness product for CSV loading practice.
+32,Resistance band model 4,Fitness,1220,44,Fictional fitness product for CSV loading practice.
+33,Notebook model 5,Stationery,1255,51,Fictional stationery product for CSV loading practice.
+34,Pen set model 5,Stationery,1290,58,Fictional stationery product for CSV loading practice.
+35,Desk lamp model 5,Home,1325,5,Fictional home product for CSV loading practice.
+36,Water bottle model 5,Home,1360,12,Fictional home product for CSV loading practice.
+37,USB cable model 5,Electronics,1395,19,Fictional electronics product for CSV loading practice.
+38,Keyboard model 5,Electronics,1430,26,Fictional electronics product for CSV loading practice.
+39,Yoga mat model 5,Fitness,1465,33,Fictional fitness product for CSV loading practice.
+40,Resistance band model 5,Fitness,1500,40,Fictional fitness product for CSV loading practice.
