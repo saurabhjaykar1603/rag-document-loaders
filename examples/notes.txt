@@ -1,0 +1,3 @@
+Document loading is the first step in a retrieval augmented generation workflow.
+Each source becomes a document with text content and metadata.
+Next, split the documents into chunks before creating embeddings.
