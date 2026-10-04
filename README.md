@@ -24,13 +24,13 @@ Run commands from the repository directory. Paths can be relative or absolute; q
 
 ```bash
 python document_loaders.py text examples/notes.txt
-python document_loaders.py pdf "/path/to/resume.pdf"
+python document_loaders.py pdf examples/sample.pdf
 python document_loaders.py csv examples/tasks.csv
 python document_loaders.py web "https://www.example.com"
 python document_loaders.py wikipedia "Python (programming language)" --max-docs 1
 ```
 
-Replace the PDF path with your own file. The script prints the number of documents, their metadata, and a 600-character preview. `--preview-chars 1200` increases the preview without changing the loaded text.
+The PDF example uses the included generic sample. The script prints the number of documents, their metadata, and a 600-character preview. `--preview-chars 1200` increases the preview without changing the loaded text.
 
 Export the complete loaded documents to JSON:
 
@@ -103,9 +103,10 @@ document_loaders.py   Loader function and CLI
 requirements.txt      Dependency versions
 examples/notes.txt    Generic text sample
 examples/tasks.csv   Generic CSV sample
+examples/sample.pdf  Generic PDF sample
 README.md            Setup, usage, and future work
 ```
 
-Text loading, CSV loading, JSON export, and CLI help were checked using the existing local environment. PDF and network loaders have not been exercised through this script, and a fresh dependency installation has not been verified.
+Text loading, CSV loading, PDF loading, JSON export, and CLI help were checked using the existing local environment. Network loaders have not been exercised through this script, and a fresh dependency installation has not been verified.
 
 Personal PDFs, downloaded datasets, credentials, and notebook outputs are excluded from this repository.
